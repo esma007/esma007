@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @esma007
-- 👀 I’m interested in cybersecurity fundamentals 
-- 🌱 I’m currently learning programming languages and SIEM tools
+- 👀 I’m passionate about cybersecurity 
+- 🌱 I’m currently learning programming languages like Python, SIEM tools, security risks management, network security, Linux and SQL, detection and response, as part of the Google cybersecurity certification
 - 💞️ I’m looking to collaborate with a company that will believe in my motivation and passion for cybersecurity and my eagerness and abilities to implement what I have learned so far 
-- 📫 How to reach me: asmaelk@protonmail.com
+- 📫 How to reach me: esma.ek@protonmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: As a cybersecurity beginner, every security concept understood feels like unlocking a secret door in the cyber world! #CyberNovice
 
